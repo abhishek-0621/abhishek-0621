@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abhishek Lalwani. I am a final year IT engineering student from Marathwada Mitra Mandals' College of Engineering(SPPU)
+- 👋 Hi, I’m Abhishek Lalwani.
 - 👀 I’m interested in Machine Learning and Data Science
 - 📫 Reach me @ abhisheklalwani2009@gmail.com
 
